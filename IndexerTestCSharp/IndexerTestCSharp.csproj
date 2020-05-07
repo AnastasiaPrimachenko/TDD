@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TDD\IndexerCSharp.csproj">
+    <ProjectReference Include="..\IndexerCSharp\IndexerCSharp.csproj">
       <Project>{c736a9d6-6a8c-4d4d-8e0c-6514fba92155}</Project>
       <Name>IndexerCSharp</Name>
     </ProjectReference>

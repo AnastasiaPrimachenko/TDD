@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EquationCSharp
 {
-    class EquationSystem
+    public class EquationSystem
     { 
         
         private List<LinearEquation> system = new List<LinearEquation>();

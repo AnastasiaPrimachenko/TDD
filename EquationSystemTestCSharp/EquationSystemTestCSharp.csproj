@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44C1FE8D-6853-40DF-A149-D49032DB62F6}</ProjectGuid>
+    <ProjectGuid>{A04FB5D9-2AEB-4126-AB71-50F010F0B84A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EquationTestCSHarp</RootNamespace>
-    <AssemblyName>EquationTestCSHarp</AssemblyName>
+    <RootNamespace>EquationTestCSharp</RootNamespace>
+    <AssemblyName>EquationTestCSharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
